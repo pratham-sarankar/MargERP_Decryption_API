@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/DecodeAndDecompressAPI.props" />
+</Project>
